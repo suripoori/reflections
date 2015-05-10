@@ -10,3 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 Staging area allows me to add the files which need to be tracked by a commit. If there are changes to multiple files
 which need to go into a single commit(logical change), then it makes more sense to add all those files into the staging
 area and then commit everything in the staging area with one commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I am trying out an experimental feature or deviating from the original requirements for a project, it is better
+to start working on a new branch and retain the stable master branch as is.
+
