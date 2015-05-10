@@ -6,3 +6,7 @@ Staging area allows me to add the files which need to be tracked by a commit. If
 which need to go into a single commit(logical change), then it makes more sense to add all those files into the staging
 area and then commit everything in the staging area with one commit.
 
+How can you use the staging area to make sure you have one commit per logical change
+Staging area allows me to add the files which need to be tracked by a commit. If there are changes to multiple files
+which need to go into a single commit(logical change), then it makes more sense to add all those files into the staging
+area and then commit everything in the staging area with one commit.
