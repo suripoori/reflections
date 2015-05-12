@@ -17,3 +17,7 @@ to start working on a new branch and retain the stable master branch as is.
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help understand the reachability of any commit from the tip of the branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together brings the changes from both the branches into a single branch. 
+
