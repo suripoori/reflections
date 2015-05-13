@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When there are multiple users working on the same project or when I want to work on a different computer and commit those changes,
+it is better to host the file in github or any such remote repository.
