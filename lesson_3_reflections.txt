@@ -5,3 +5,9 @@ it is better to host the file in github or any such remote repository.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If I'm working on a particular code base and building something, I may not want changes which others pushed in to remote getting pulled
 automatically as it may break my changes. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is used when you want to take an existing github repository owned by someone else, and modify it. Git creates a new
+remote repository for you which you can modify.
+Clone is used when you want a remote repository to be downloaded to your local computer, so that you can edit it.
+Branches are used when you want to make experimental changes to a local repository.
