@@ -14,3 +14,8 @@ Branches are used when you want to make experimental changes to a local reposito
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Other options to collaborate include Google drive/dropbox etc. But, github is the easiest to use to collaborate for code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to add a new feature or put in a hotfix, it makes sense to start work on a new branch forked out of master. 
+Commit and Push the changes and then once tested, send a pull-request for the same.
+
